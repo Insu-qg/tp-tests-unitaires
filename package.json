@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "utils": "jest utils.test.js",
+    "cart": "jest cart.test.js"
   },
   "keywords": [],
   "author": "",
