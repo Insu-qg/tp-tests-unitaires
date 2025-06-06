@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1749198273880" clover="3.2.0">
-  <project timestamp="1749198273880" name="All files">
-    <metrics statements="49" coveredstatements="49" conditionals="37" coveredconditionals="37" methods="13" coveredmethods="13" elements="99" coveredelements="99" complexity="0" loc="49" ncloc="49" packages="1" files="2" classes="2"/>
+<coverage generated="1749198710215" clover="3.2.0">
+  <project timestamp="1749198710216" name="All files">
+    <metrics statements="50" coveredstatements="50" conditionals="41" coveredconditionals="41" methods="13" coveredmethods="13" elements="104" coveredelements="104" complexity="0" loc="50" ncloc="50" packages="1" files="2" classes="2"/>
     <file name="cart.js" path="D:\Projets\TP-Master\tp-tests-unitaires\cart.js">
-      <metrics statements="18" coveredstatements="18" conditionals="6" coveredconditionals="6" methods="7" coveredmethods="7"/>
+      <metrics statements="19" coveredstatements="19" conditionals="10" coveredconditionals="10" methods="7" coveredmethods="7"/>
       <line num="3" count="12" type="stmt"/>
-      <line num="7" count="13" type="stmt"/>
-      <line num="9" count="13" type="cond" truecount="2" falsecount="0"/>
-      <line num="10" count="1" type="stmt"/>
-      <line num="12" count="12" type="stmt"/>
-      <line num="15" count="13" type="stmt"/>
-      <line num="20" count="2" type="stmt"/>
-      <line num="21" count="2" type="cond" truecount="2" falsecount="0"/>
-      <line num="22" count="1" type="stmt"/>
-      <line num="23" count="1" type="stmt"/>
+      <line num="7" count="13" type="cond" truecount="4" falsecount="0"/>
+      <line num="9" count="11" type="stmt"/>
+      <line num="11" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="10" type="stmt"/>
+      <line num="17" count="11" type="stmt"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="23" count="2" type="cond" truecount="2" falsecount="0"/>
       <line num="24" count="1" type="stmt"/>
-      <line num="28" count="1" type="stmt"/>
-      <line num="29" count="1" type="stmt"/>
-      <line num="33" count="3" type="stmt"/>
-      <line num="37" count="3" type="stmt"/>
-      <line num="38" count="3" type="cond" truecount="2" falsecount="0"/>
-      <line num="39" count="2" type="stmt"/>
-      <line num="42" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="35" count="3" type="stmt"/>
+      <line num="39" count="3" type="stmt"/>
+      <line num="40" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="41" count="2" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
     </file>
     <file name="utils.js" path="D:\Projets\TP-Master\tp-tests-unitaires\utils.js">
       <metrics statements="31" coveredstatements="31" conditionals="31" coveredconditionals="31" methods="6" coveredmethods="6"/>
